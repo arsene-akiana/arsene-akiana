@@ -43,15 +43,18 @@ My goal is to pursue a **Master's degree in Machine Learning or Artificial Intel
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
 - REST API Design
-- Cloud Computing & Deployment
 - Technical Mentoring & Academic Leadership
+- ....
 
----
+**🔭 Currently Learning:**
+
+- Machine Learning fundamentals
+- Backend development with Flask
 
 ## 🎓 Education
 
-🏛️ **BSc Software Engineering** · CFI-CIRAS, Brazzaville *(2024 – 2027)*
-> Elite presidential institution focused on secure R&D and advanced technologies
+🏛️ **BSc Software Engineering** · CFI-CIRAS, Brazzaville *(2025 – 2027)* (Expected)
+> elective institution focused on software engineering and applied technologies
 
 🏅 **STEM Foundation Year** · ISTP, Brazzaville *(2023 – 2024)*
 > **Valedictorian — 1st / 230 students** | GPA: 14.60/20 | "Bien" Honors
