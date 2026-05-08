@@ -55,8 +55,10 @@ My goal is to pursue a **Master's degree in Machine Learning or Artificial Intel
 
 🏛️ **BSc Software Engineering** · CFI-CIRAS, Brazzaville *(2025 – 2027)* (Expected)
 > elective institution focused on software engineering and applied technologies.
-- Admitted directly into 2nd year via national competitive exam after foundation year.
-- Currently in 2nd year. Expected graduation: 2027
+> 
+Admitted directly into 2nd year via national competitive exam after foundation year.
+
+> Currently in 2nd year. Expected graduation: 2027
 
 🏅 **STEM Foundation Year** · ISTP, Brazzaville *(2024 – 2025)*
 > **Valedictorian — 1st / 230 students** | GPA: 14.60/20 | "Bien" Honors
