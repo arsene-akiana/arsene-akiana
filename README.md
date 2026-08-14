@@ -66,8 +66,14 @@ Created a centralized digital library used by the entire department.
 
 ## GitHub Stats
 
-![Arsène's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsene-akiana&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsene-akiana&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arsene-akiana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Arsène's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsene-akiana&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arsene-akiana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
