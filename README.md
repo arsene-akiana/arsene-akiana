@@ -65,14 +65,26 @@ Created a centralized digital library used by the entire department.
 ---
 ## GitHub Stats
 
-<!-- Utilisation d'une instance alternative fiable pour contourner le blocage -->
-![Arsène's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arsene-akiana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    alt="Arsène Akiana Gloire GitHub Stats"
+    height="180"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Arsène Akiana Gloire Top Languages"
+    height="180"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arsene-akiana&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-<!-- La carte Streak fonctionne déjà, on la garde -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arsene-akiana&theme=tokyonight&hide_border=true)
-
+<p align="center">
+  <img
+    src="./profile/streak.svg"
+    alt="Arsène Akiana Gloire GitHub Streak"
+    height="180"
+  />
+</p>
 ---
 
 🇫🇷 French — Native &nbsp;|&nbsp; 🇬🇧 English — Professional proficiency
