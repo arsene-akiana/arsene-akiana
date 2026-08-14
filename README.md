@@ -63,18 +63,16 @@ Coordinated academic operations for 230 students across 6 departments.
 Created a centralized digital library used by the entire department.
 
 ---
-
 ## GitHub Stats
 
-<p align="center">
-  <!-- Votre graphique de contribution natif (invisible mais génère l'activité) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsene-akiana&theme=tokyonight" alt="Graphique natif" />
-</p>
+<!-- Utilisation d'une instance alternative fiable pour contourner le blocage -->
+![Arsène's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arsene-akiana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<!-- La carte Streak fonctionne déjà, on la garde car elle est fiable -->
-<p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arsene-akiana&theme=tokyonight&hide_border=true)
-</p>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arsene-akiana&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+<!-- La carte Streak fonctionne déjà, on la garde -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arsene-akiana&theme=tokyonight&hide_border=true)
+
 ---
 
 🇫🇷 French — Native &nbsp;|&nbsp; 🇬🇧 English — Professional proficiency
