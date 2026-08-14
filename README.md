@@ -66,13 +66,14 @@ Created a centralized digital library used by the entire department.
 
 ## GitHub Stats
 
-## GitHub Stats
+<!-- Utilisation d'une instance alternative fiable pour contourner le blocage -->
+![Arsène's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arsene-akiana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Arsène's GitHub Stats](https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=arsene-akiana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arsene-akiana&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-![Top Languages](https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=arsene-akiana&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
+<!-- La carte Streak fonctionne déjà, on la garde -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arsene-akiana&theme=tokyonight&hide_border=true)
+
 
 ---
 
