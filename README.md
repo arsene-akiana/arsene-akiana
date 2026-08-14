@@ -1,4 +1,4 @@
-# Arsène Akiana Gloire
+# Arsène Gloire AKIANA
 
 ### Software Engineer · Full-Stack Web Developer
 
@@ -6,7 +6,7 @@ Building practical and reliable web applications from **Brazzaville, Republic of
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsene-akiana)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akianaarsenegloire@gmail.com)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=arsene-akiana&color=blue&style=flat)](https://github.com/arsene-akiana) 
 ---
 
 ## About
@@ -70,7 +70,6 @@ I’m currently focused on strengthening my skills across the full development l
 ### Lead Class Representative
 **ISTP · 2024 – 2025**
 
-- Created and maintained a **centralized digital library** for the department
 - Organized academic resources to make information easier to access
 - Supported communication between students and academic administration
 
