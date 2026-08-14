@@ -66,15 +66,22 @@ Created a centralized digital library used by the entire department.
 
 ## GitHub Stats
 
-<!-- Utilisation d'une instance alternative fiable pour contourner le blocage -->
-![Arsène's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arsene-akiana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<p align="center">
+  <!-- Super Trophées (très stable, pas de blocage) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=arsene-akiana&theme=tokyonight&no-bg=true&no-frame=true" alt="Arsène's Trophies" />
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arsene-akiana&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<p align="center">
+  <!-- Stats globales (Instance alternative fiable) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arsene-akiana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="150" />
+  <!-- Streak (Serveur différent, fiable) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arsene-akiana&theme=tokyonight&hide_border=true" alt="Streak" height="150" />
+</p>
 
-<!-- La carte Streak fonctionne déjà, on la garde -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arsene-akiana&theme=tokyonight&hide_border=true)
-
-
+<p align="center">
+  <!-- Langages (Instance alternative fiable) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arsene-akiana&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Langages" height="180" />
+</p>
 ---
 
 🇫🇷 French — Native &nbsp;|&nbsp; 🇬🇧 English — Professional proficiency
