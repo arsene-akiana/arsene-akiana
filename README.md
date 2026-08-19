@@ -115,6 +115,7 @@ Akieni Academy · Cohort 2 · 2026
 ## Languages
 
 **French** — Native
+
 **English** — Intermediate, actively improving (TOEFL preparation in progress)
 
 ---
